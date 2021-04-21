@@ -21,7 +21,7 @@
     <nav class="navbar">
         <div class="max-width">
             <ul class="menu">
-                <li><a href="https://app-uts-18090070.herokuapp.com/hp" class="menu-btn">Aplikasi Perekaman Data Kendaraan </a></li>
+                <li><a href="https://app-uts-18090070.herokuapp.com/plat" class="menu-btn">Aplikasi Perekaman Data Kendaraan </a></li>
             </ul>
             <div class="menu-btn">
                 <i class="fas fa-bars"></i>
