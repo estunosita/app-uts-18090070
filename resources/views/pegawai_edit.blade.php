@@ -13,12 +13,12 @@
                     CRUD - <strong>EDIT DATA</strong>
                 </div>
                 <div class="card-body">
-                    <a href="/hp" class="btn btn-primary">Kembali</a>
+                    <a href="/plat" class="btn btn-primary">Kembali</a>
                     <br/>
                     <br/>
                     
  
-                    <form method="post" action="/hp/update/{{ $pegawai->id }}">
+                    <form method="post" action="/plat/update/{{ $pegawai->id }}">
  
                         {{ csrf_field() }}
                         {{ method_field('PUT') }}

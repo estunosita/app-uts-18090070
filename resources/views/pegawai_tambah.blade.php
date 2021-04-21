@@ -13,11 +13,11 @@
                     CRUD
                 </div>
                 <div class="card-body">
-                    <a href="/hp" class="btn btn-primary">Kembali</a>
+                    <a href="/plat" class="btn btn-primary">Kembali</a>
                     <br/>
                     <br/>
                     
-                    <form method="post" action="/hp/store">
+                    <form method="post" action="/plat/store">
  
                         {{ csrf_field() }}
 
