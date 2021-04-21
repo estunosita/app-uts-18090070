@@ -37,8 +37,7 @@
                 <div class="text-1">Hello, Nama Saya</div>
                 <div class="text-2">Estu Nosita</div>
                 <div class="text-3">NIM : 18090070</div>
-                <div class="text-4">Kelas : 6C
-            </div>
+                <div class="text-4">Kelas : 6C</div>
           </div>
       </div>
     </section>
