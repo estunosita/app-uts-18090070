@@ -10,7 +10,7 @@
         <div class="container">
             <div class="card mt-5">
                 <div class="card-header text-center">
-                    CRUD - <strong>TAMBAH DATA</strong> - <a href="#" target="_blank">By 18090070</a>
+                    CRUD
                 </div>
                 <div class="card-body">
                     <a href="/hp" class="btn btn-primary">Kembali</a>
@@ -68,5 +68,5 @@
                 </div>
             </div>
         </div>
-    </body>
+    </body>    <center><a>18090070</a></center>
 </html>
