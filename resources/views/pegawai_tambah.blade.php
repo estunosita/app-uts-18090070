@@ -9,7 +9,7 @@
     <body>
         <div class="container">
             <div class="card mt-5">
-                <div class="card-header text-center">
+                <div class="card-header bg-dark text-center">
                     CRUD - <strong>TAMBAH DATA</strong> - <a href="#" target="_blank">By 18090070</a>
                 </div>
                 <div class="card-body">
