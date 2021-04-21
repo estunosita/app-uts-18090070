@@ -21,7 +21,7 @@
     <nav class="navbar">
         <div class="max-width">
             <ul class="menu">
-                <li><a href="https://app-uts-18090070.herokuapp.com/" class="menu-btn">Aplikasi</a></li>
+                <li><a href="https://app-uts-18090070.herokuapp.com/hp" class="menu-btn">Aplikasi Perekaman Data Kendaraan </a></li>
             </ul>
             <div class="menu-btn">
                 <i class="fas fa-bars"></i>
@@ -36,8 +36,8 @@
             <div class="home-content">
                 <div class="text-1">Hello, Nama Saya</div>
                 <div class="text-2">Estu Nosita</div>
-                <div class="text-3">NIM : 18090070
-                <a href="#">Masuk</a>
+                <div class="text-3">NIM : 18090070</div>
+                <div class="text-4">Kelas : 6C
             </div>
           </div>
       </div>
